@@ -1,11 +1,11 @@
 Gem::Specification.new do |s|
-  s.name = 'square.rb'
-  s.version = '6.3.0.20200826'
-  s.summary = 'square'
-  s.description = 'Use Square APIs to manage and run business including payment, customer, product, inventory, and employee management.'
-  s.authors = ['Square Developer Platform']
-  s.email = 'developers@squareup.com'
-  s.homepage = 'https://squareup.com/developers'
+  s.name = 'fangkuai.rb'
+  s.version = '0.0.1'
+  s.summary = 'fangkuai'
+  s.description = ''
+  s.authors = ['okenshields']
+  s.email = 'okenshields@example.com'
+  s.homepage = 'https://github.com/okenshields'
   s.license = 'Apache-2.0'
   s.add_dependency('logging', '~> 2.2')
   s.add_dependency('faraday', '~> 0.15')
